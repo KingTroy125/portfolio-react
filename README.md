@@ -57,3 +57,11 @@ Follow the steps below to get this project up and running locally:
 ## Project Structure
 Here is a basic overview of the project's folder structure:
 
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+Feel free to explore and contact me if you have any questions or want to collaborate!
+
